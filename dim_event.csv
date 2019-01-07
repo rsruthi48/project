@@ -1,0 +1,425 @@
+﻿Event Id,Event Name,Number of Records,Sports Id
+E1,Alpine Skiing Men's Combined,1,S1
+E2,Alpine Skiing Men's Downhill,1,S1
+E3,Alpine Skiing Men's Giant Slalom,1,S1
+E4,Alpine Skiing Men's Slalom,1,S1
+E5,Alpine Skiing Men's Super G,1,S1
+E6,Alpine Skiing Women's Combined,1,S1
+E7,Alpine Skiing Women's Downhill,1,S1
+E8,Alpine Skiing Women's Giant Slalom,1,S1
+E9,Alpine Skiing Women's Slalom,1,S1
+E10,Alpine Skiing Women's Super G,1,S1
+E11,Archery Men's Individual,1,S2
+E12,Archery Men's Team,1,S2
+E13,Archery Women's Individual,1,S2
+E14,Archery Women's Team,1,S2
+E15,"Athletics Men's 1,500 metres",1,S3
+E16,"Athletics Men's 10,000 metres",1,S3
+E17,Athletics Men's 100 metres,1,S3
+E18,Athletics Men's 110 metres Hurdles,1,S3
+E19,Athletics Men's 20 kilometres Walk,1,S3
+E20,Athletics Men's 200 metres,1,S3
+E21,"Athletics Men's 3,000 metres Steeplechase",1,S3
+E22,Athletics Men's 4 x 100 metres Relay,1,S3
+E23,Athletics Men's 4 x 400 metres Relay,1,S3
+E24,Athletics Men's 400 metres,1,S3
+E25,Athletics Men's 400 metres Hurdles,1,S3
+E26,"Athletics Men's 5,000 metres",1,S3
+E27,Athletics Men's 50 kilometres Walk,1,S3
+E28,Athletics Men's 800 metres,1,S3
+E29,Athletics Men's Decathlon,1,S3
+E30,Athletics Men's Discus Throw,1,S3
+E31,Athletics Men's Hammer Throw,1,S3
+E32,Athletics Men's High Jump,1,S3
+E33,Athletics Men's Javelin Throw,1,S3
+E34,Athletics Men's Long Jump,1,S3
+E35,Athletics Men's Marathon,1,S3
+E36,Athletics Men's Pole Vault,1,S3
+E37,Athletics Men's Shot Put,1,S3
+E38,Athletics Men's Triple Jump,1,S3
+E39,"Athletics Women's 1,500 metres",1,S3
+E40,"Athletics Women's 10,000 metres",1,S3
+E41,Athletics Women's 100 metres,1,S3
+E42,Athletics Women's 100 metres Hurdles,1,S3
+E43,Athletics Women's 20 kilometres Walk,1,S3
+E44,Athletics Women's 200 metres,1,S3
+E45,"Athletics Women's 3,000 metres Steeplechase",1,S3
+E46,Athletics Women's 4 x 100 metres Relay,1,S3
+E47,Athletics Women's 4 x 400 metres Relay,1,S3
+E48,Athletics Women's 400 metres,1,S3
+E49,Athletics Women's 400 metres Hurdles,1,S3
+E50,"Athletics Women's 5,000 metres",1,S3
+E51,Athletics Women's 800 metres,1,S3
+E52,Athletics Women's Discus Throw,1,S3
+E53,Athletics Women's Hammer Throw,1,S3
+E54,Athletics Women's Heptathlon,1,S3
+E55,Athletics Women's High Jump,1,S3
+E56,Athletics Women's Javelin Throw,1,S3
+E57,Athletics Women's Long Jump,1,S3
+E58,Athletics Women's Marathon,1,S3
+E59,Athletics Women's Pole Vault,1,S3
+E60,Athletics Women's Shot Put,1,S3
+E61,Athletics Women's Triple Jump,1,S3
+E62,Badminton Men's Doubles,1,S4
+E63,Badminton Men's Singles,1,S4
+E64,Badminton Mixed Doubles,1,S4
+E65,Badminton Women's Doubles,1,S4
+E66,Badminton Women's Singles,1,S4
+E67,Baseball Men's Baseball,1,S5
+E68,Basketball Men's Basketball,1,S6
+E69,Basketball Women's Basketball,1,S6
+E70,Beach Volleyball Men's Beach Volleyball,1,S7
+E71,Beach Volleyball Women's Beach Volleyball,1,S7
+E72,Biathlon Men's 10 kilometres Sprint,1,S8
+E73,Biathlon Men's 12.5 kilometres Pursuit,1,S8
+E74,Biathlon Men's 15 kilometres Mass Start,1,S8
+E75,Biathlon Men's 20 kilometres,1,S8
+E76,Biathlon Men's 4 x 7.5 kilometres Relay,1,S8
+E77,Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay,1,S8
+E78,Biathlon Women's 10 kilometres Pursuit,1,S8
+E79,Biathlon Women's 12.5 kilometres Mass Start,1,S8
+E80,Biathlon Women's 15 kilometres,1,S8
+E81,Biathlon Women's 4 x 6 kilometres Relay,1,S8
+E82,Biathlon Women's 7.5 kilometres Sprint,1,S8
+E83,Bobsleigh Men's Four,1,S9
+E84,Bobsleigh Men's Two,1,S9
+E85,Bobsleigh Women's Two,1,S9
+E86,Boxing Men's Bantamweight,1,S10
+E87,Boxing Men's Featherweight,1,S10
+E88,Boxing Men's Flyweight,1,S10
+E89,Boxing Men's Heavyweight,1,S10
+E90,Boxing Men's Light-Flyweight,1,S10
+E91,Boxing Men's Light-Heavyweight,1,S10
+E92,Boxing Men's Light-Welterweight,1,S10
+E93,Boxing Men's Lightweight,1,S10
+E94,Boxing Men's Middleweight,1,S10
+E95,Boxing Men's Super-Heavyweight,1,S10
+E96,Boxing Men's Welterweight,1,S10
+E97,Boxing Women's Flyweight,1,S10
+E98,Boxing Women's Lightweight,1,S10
+E99,Boxing Women's Middleweight,1,S10
+E100,"Canoeing Men's Canadian Doubles, 1,000 metres",1,S11
+E101,"Canoeing Men's Canadian Doubles, 500 metres",1,S11
+E102,"Canoeing Men's Canadian Doubles, Slalom",1,S11
+E103,"Canoeing Men's Canadian Singles, 1,000 metres",1,S11
+E104,"Canoeing Men's Canadian Singles, 200 metres",1,S11
+E105,"Canoeing Men's Canadian Singles, 500 metres",1,S11
+E106,"Canoeing Men's Canadian Singles, Slalom",1,S11
+E107,"Canoeing Men's Kayak Doubles, 1,000 metres",1,S11
+E108,"Canoeing Men's Kayak Doubles, 200 metres",1,S11
+E109,"Canoeing Men's Kayak Doubles, 500 metres",1,S11
+E110,"Canoeing Men's Kayak Fours, 1,000 metres",1,S11
+E111,"Canoeing Men's Kayak Singles, 1,000 metres",1,S11
+E112,"Canoeing Men's Kayak Singles, 200 metres",1,S11
+E113,"Canoeing Men's Kayak Singles, 500 metres",1,S11
+E114,"Canoeing Men's Kayak Singles, Slalom",1,S11
+E115,"Canoeing Women's Kayak Doubles, 500 metres",1,S11
+E116,"Canoeing Women's Kayak Fours, 500 metres",1,S11
+E117,"Canoeing Women's Kayak Singles, 200 metres",1,S11
+E118,"Canoeing Women's Kayak Singles, 500 metres",1,S11
+E119,"Canoeing Women's Kayak Singles, Slalom",1,S11
+E120,Cross Country Skiing Men's 15 kilometres,1,S12
+E121,Cross Country Skiing Men's 30 km Skiathlon,1,S12
+E122,Cross Country Skiing Men's 4 x 10 kilometres Relay,1,S12
+E123,Cross Country Skiing Men's 50 kilometres,1,S12
+E124,Cross Country Skiing Men's Sprint,1,S12
+E125,Cross Country Skiing Men's Team Sprint,1,S12
+E126,Cross Country Skiing Women's 10 kilometres,1,S12
+E127,Cross Country Skiing Women's 15 km Skiathlon,1,S12
+E128,Cross Country Skiing Women's 30 kilometres,1,S12
+E129,Cross Country Skiing Women's 4 x 5 kilometres Relay,1,S12
+E130,Cross Country Skiing Women's Sprint,1,S12
+E131,Cross Country Skiing Women's Team Sprint,1,S12
+E132,Curling Men's Curling,1,S13
+E133,Curling Women's Curling,1,S13
+E134,Cycling Men's BMX,1,S14
+E135,"Cycling Men's Individual Pursuit, 4,000 metres",1,S14
+E136,Cycling Men's Individual Time Trial,1,S14
+E137,Cycling Men's Keirin,1,S14
+E138,Cycling Men's Madison,1,S14
+E139,"Cycling Men's Mountainbike, Cross-Country",1,S14
+E140,Cycling Men's Omnium,1,S14
+E141,Cycling Men's Points Race,1,S14
+E142,"Cycling Men's Road Race, Individual",1,S14
+E143,Cycling Men's Sprint,1,S14
+E144,"Cycling Men's Team Pursuit, 4,000 metres",1,S14
+E145,Cycling Men's Team Sprint,1,S14
+E146,Cycling Women's BMX,1,S14
+E147,"Cycling Women's Individual Pursuit, 3,000 metres",1,S14
+E148,Cycling Women's Individual Time Trial,1,S14
+E149,Cycling Women's Keirin,1,S14
+E150,"Cycling Women's Mountainbike, Cross-Country",1,S14
+E151,Cycling Women's Omnium,1,S14
+E152,Cycling Women's Points Race,1,S14
+E153,"Cycling Women's Road Race, Individual",1,S14
+E154,Cycling Women's Sprint,1,S14
+E155,Cycling Women's Team Pursuit,1,S14
+E156,Cycling Women's Team Sprint,1,S14
+E157,Diving Men's Platform,1,S15
+E158,Diving Men's Springboard,1,S15
+E159,Diving Men's Synchronized Platform,1,S15
+E160,Diving Men's Synchronized Springboard,1,S15
+E161,Diving Women's Platform,1,S15
+E162,Diving Women's Springboard,1,S15
+E163,Diving Women's Synchronized Platform,1,S15
+E164,Diving Women's Synchronized Springboard,1,S15
+E165,"Equestrianism Mixed Dressage, Individual",1,S16
+E166,"Equestrianism Mixed Dressage, Team",1,S16
+E167,"Equestrianism Mixed Jumping, Individual",1,S16
+E168,"Equestrianism Mixed Jumping, Team",1,S16
+E169,"Equestrianism Mixed Three-Day Event, Individual",1,S16
+E170,"Equestrianism Mixed Three-Day Event, Team",1,S16
+E171,"Fencing Men's Foil, Individual",1,S17
+E172,"Fencing Men's Foil, Team",1,S17
+E173,"Fencing Men's Sabre, Individual",1,S17
+E174,"Fencing Men's Sabre, Team",1,S17
+E175,"Fencing Men's epee, Individual",1,S17
+E176,"Fencing Men's epee, Team",1,S17
+E177,"Fencing Women's Foil, Individual",1,S17
+E178,"Fencing Women's Foil, Team",1,S17
+E179,"Fencing Women's Sabre, Individual",1,S17
+E180,"Fencing Women's Sabre, Team",1,S17
+E181,"Fencing Women's epee, Individual",1,S17
+E182,"Fencing Women's epee, Team",1,S17
+E183,Figure Skating Men's Singles,1,S18
+E184,Figure Skating Mixed Ice Dancing,1,S18
+E185,Figure Skating Mixed Pairs,1,S18
+E186,Figure Skating Mixed Team,1,S18
+E187,Figure Skating Women's Singles,1,S18
+E188,Football Men's Football,1,S19
+E189,Football Women's Football,1,S19
+E190,Freestyle Skiing Men's Aerials,1,S20
+E191,Freestyle Skiing Men's Halfpipe,1,S20
+E192,Freestyle Skiing Men's Moguls,1,S20
+E193,Freestyle Skiing Men's Ski Cross,1,S20
+E194,Freestyle Skiing Men's Slopestyle,1,S20
+E195,Freestyle Skiing Women's Aerials,1,S20
+E196,Freestyle Skiing Women's Halfpipe,1,S20
+E197,Freestyle Skiing Women's Moguls,1,S20
+E198,Freestyle Skiing Women's Ski Cross,1,S20
+E199,Freestyle Skiing Women's Slopestyle,1,S20
+E200,Golf Men's Individual,1,S21
+E201,Golf Women's Individual,1,S21
+E202,Gymnastics Men's Floor Exercise,1,S22
+E203,Gymnastics Men's Horizontal Bar,1,S22
+E204,Gymnastics Men's Horse Vault,1,S22
+E205,Gymnastics Men's Individual All-Around,1,S22
+E206,Gymnastics Men's Parallel Bars,1,S22
+E207,Gymnastics Men's Pommelled Horse,1,S22
+E208,Gymnastics Men's Rings,1,S22
+E209,Gymnastics Men's Team All-Around,1,S22
+E210,Gymnastics Women's Balance Beam,1,S22
+E211,Gymnastics Women's Floor Exercise,1,S22
+E212,Gymnastics Women's Horse Vault,1,S22
+E213,Gymnastics Women's Individual All-Around,1,S22
+E214,Gymnastics Women's Team All-Around,1,S22
+E215,Gymnastics Women's Uneven Bars,1,S22
+E216,Handball Men's Handball,1,S23
+E217,Handball Women's Handball,1,S23
+E218,Hockey Men's Hockey,1,S24
+E219,Hockey Women's Hockey,1,S24
+E220,Ice Hockey Men's Ice Hockey,1,S25
+E221,Ice Hockey Women's Ice Hockey,1,S25
+E222,Judo Men's Extra-Lightweight,1,S26
+E223,Judo Men's Half-Heavyweight,1,S26
+E224,Judo Men's Half-Lightweight,1,S26
+E225,Judo Men's Half-Middleweight,1,S26
+E226,Judo Men's Heavyweight,1,S26
+E227,Judo Men's Lightweight,1,S26
+E228,Judo Men's Middleweight,1,S26
+E229,Judo Women's Extra-Lightweight,1,S26
+E230,Judo Women's Half-Heavyweight,1,S26
+E231,Judo Women's Half-Lightweight,1,S26
+E232,Judo Women's Half-Middleweight,1,S26
+E233,Judo Women's Heavyweight,1,S26
+E234,Judo Women's Lightweight,1,S26
+E235,Judo Women's Middleweight,1,S26
+E236,Luge Men's Singles,1,S27
+E237,Luge Mixed (Men)'s Doubles,1,S27
+E238,Luge Mixed Team Relay,1,S27
+E239,Luge Women's Singles,1,S27
+E240,Modern Pentathlon Men's Individual,1,S28
+E241,Modern Pentathlon Women's Individual,1,S28
+E242,"Nordic Combined Men's Large Hill / 10 km, Individual",1,S29
+E243,"Nordic Combined Men's Normal Hill / 10 km, Individual",1,S29
+E244,Nordic Combined Men's Team,1,S29
+E245,Rhythmic Gymnastics Women's Group,1,S30
+E246,Rhythmic Gymnastics Women's Individual,1,S30
+E247,Rowing Men's Coxed Eights,1,S31
+E248,Rowing Men's Coxless Fours,1,S31
+E249,Rowing Men's Coxless Pairs,1,S31
+E250,Rowing Men's Double Sculls,1,S31
+E251,Rowing Men's Lightweight Coxless Fours,1,S31
+E252,Rowing Men's Lightweight Double Sculls,1,S31
+E253,Rowing Men's Quadruple Sculls,1,S31
+E254,Rowing Men's Single Sculls,1,S31
+E255,Rowing Women's Coxed Eights,1,S31
+E256,Rowing Women's Coxless Pairs,1,S31
+E257,Rowing Women's Double Sculls,1,S31
+E258,Rowing Women's Lightweight Double Sculls,1,S31
+E259,Rowing Women's Quadruple Sculls,1,S31
+E260,Rowing Women's Single Sculls,1,S31
+E261,Rugby Sevens Men's Rugby Sevens,1,S32
+E262,Rugby Sevens Women's Rugby Sevens,1,S32
+E263,Sailing Men's One Person Dinghy,1,S33
+E264,Sailing Men's One Person Heavyweight Dinghy,1,S33
+E265,Sailing Men's Skiff,1,S33
+E266,Sailing Men's Two Person Dinghy,1,S33
+E267,Sailing Men's Two Person Keelboat,1,S33
+E268,Sailing Men's Windsurfer,1,S33
+E269,Sailing Mixed Multihull,1,S33
+E270,Sailing Mixed One Person Dinghy,1,S33
+E271,Sailing Mixed Skiff,1,S33
+E272,Sailing Women's One Person Dinghy,1,S33
+E273,Sailing Women's Skiff,1,S33
+E274,Sailing Women's Three Person Keelboat,1,S33
+E275,Sailing Women's Two Person Dinghy,1,S33
+E276,Sailing Women's Windsurfer,1,S33
+E277,"Shooting Men's Air Pistol, 10 metres",1,S34
+E278,"Shooting Men's Air Rifle, 10 metres",1,S34
+E279,Shooting Men's Double Trap,1,S34
+E280,"Shooting Men's Free Pistol, 50 metres",1,S34
+E281,"Shooting Men's Rapid-Fire Pistol, 25 metres",1,S34
+E282,Shooting Men's Skeet,1,S34
+E283,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",1,S34
+E284,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",1,S34
+E285,Shooting Men's Trap,1,S34
+E286,"Shooting Women's Air Pistol, 10 metres",1,S34
+E287,"Shooting Women's Air Rifle, 10 metres",1,S34
+E288,Shooting Women's Skeet,1,S34
+E289,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",1,S34
+E290,"Shooting Women's Sporting Pistol, 25 metres",1,S34
+E291,Shooting Women's Trap,1,S34
+E292,"Short Track Speed Skating Men's 1,000 metres",1,S35
+E293,"Short Track Speed Skating Men's 1,500 metres",1,S35
+E294,"Short Track Speed Skating Men's 5,000 metres Relay",1,S35
+E295,Short Track Speed Skating Men's 500 metres,1,S35
+E296,"Short Track Speed Skating Women's 1,000 metres",1,S35
+E297,"Short Track Speed Skating Women's 1,500 metres",1,S35
+E298,"Short Track Speed Skating Women's 3,000 metres Relay",1,S35
+E299,Short Track Speed Skating Women's 500 metres,1,S35
+E300,Skeleton Men's Skeleton,1,S36
+E301,Skeleton Women's Skeleton,1,S36
+E302,"Ski Jumping Men's Large Hill, Individual",1,S37
+E303,"Ski Jumping Men's Large Hill, Team",1,S37
+E304,"Ski Jumping Men's Normal Hill, Individual",1,S37
+E305,"Ski Jumping Women's Normal Hill, Individual",1,S37
+E306,Snowboarding Men's Boardercross,1,S38
+E307,Snowboarding Men's Halfpipe,1,S38
+E308,Snowboarding Men's Parallel Giant Slalom,1,S38
+E309,Snowboarding Men's Parallel Slalom,1,S38
+E310,Snowboarding Men's Slopestyle,1,S38
+E311,Snowboarding Women's Boardercross,1,S38
+E312,Snowboarding Women's Halfpipe,1,S38
+E313,Snowboarding Women's Parallel Giant Slalom,1,S38
+E314,Snowboarding Women's Parallel Slalom,1,S38
+E315,Snowboarding Women's Slopestyle,1,S38
+E316,Softball Women's Softball,1,S39
+E317,"Speed Skating Men's 1,000 metres",1,S40
+E318,"Speed Skating Men's 1,500 metres",1,S40
+E319,"Speed Skating Men's 10,000 metres",1,S40
+E320,"Speed Skating Men's 5,000 metres",1,S40
+E321,Speed Skating Men's 500 metres,1,S40
+E322,Speed Skating Men's Team Pursuit (8 laps),1,S40
+E323,"Speed Skating Women's 1,000 metres",1,S40
+E324,"Speed Skating Women's 1,500 metres",1,S40
+E325,"Speed Skating Women's 3,000 metres",1,S40
+E326,"Speed Skating Women's 5,000 metres",1,S40
+E327,Speed Skating Women's 500 metres,1,S40
+E328,Speed Skating Women's Team Pursuit (6 laps),1,S40
+E329,"Swimming Men's 1,500 metres Freestyle",1,S41
+E330,Swimming Men's 10 kilometres Open Water,1,S41
+E331,Swimming Men's 100 metres Backstroke,1,S41
+E332,Swimming Men's 100 metres Breaststroke,1,S41
+E333,Swimming Men's 100 metres Butterfly,1,S41
+E334,Swimming Men's 100 metres Freestyle,1,S41
+E335,Swimming Men's 200 metres Backstroke,1,S41
+E336,Swimming Men's 200 metres Breaststroke,1,S41
+E337,Swimming Men's 200 metres Butterfly,1,S41
+E338,Swimming Men's 200 metres Freestyle,1,S41
+E339,Swimming Men's 200 metres Individual Medley,1,S41
+E340,Swimming Men's 4 x 100 metres Freestyle Relay,1,S41
+E341,Swimming Men's 4 x 100 metres Medley Relay,1,S41
+E342,Swimming Men's 4 x 200 metres Freestyle Relay,1,S41
+E343,Swimming Men's 400 metres Freestyle,1,S41
+E344,Swimming Men's 400 metres Individual Medley,1,S41
+E345,Swimming Men's 50 metres Freestyle,1,S41
+E346,Swimming Women's 10 kilometres Open Water,1,S41
+E347,Swimming Women's 100 metres Backstroke,1,S41
+E348,Swimming Women's 100 metres Breaststroke,1,S41
+E349,Swimming Women's 100 metres Butterfly,1,S41
+E350,Swimming Women's 100 metres Freestyle,1,S41
+E351,Swimming Women's 200 metres Backstroke,1,S41
+E352,Swimming Women's 200 metres Breaststroke,1,S41
+E353,Swimming Women's 200 metres Butterfly,1,S41
+E354,Swimming Women's 200 metres Freestyle,1,S41
+E355,Swimming Women's 200 metres Individual Medley,1,S41
+E356,Swimming Women's 4 x 100 metres Freestyle Relay,1,S41
+E357,Swimming Women's 4 x 100 metres Medley Relay,1,S41
+E358,Swimming Women's 4 x 200 metres Freestyle Relay,1,S41
+E359,Swimming Women's 400 metres Freestyle,1,S41
+E360,Swimming Women's 400 metres Individual Medley,1,S41
+E361,Swimming Women's 50 metres Freestyle,1,S41
+E362,Swimming Women's 800 metres Freestyle,1,S41
+E363,Synchronized Swimming Women's Duet,1,S42
+E364,Synchronized Swimming Women's Team,1,S42
+E365,Table Tennis Men's Singles,1,S43
+E366,Table Tennis Men's Team,1,S43
+E367,Table Tennis Women's Singles,1,S43
+E368,Table Tennis Women's Team,1,S43
+E369,Taekwondo Men's Featherweight,1,S44
+E370,Taekwondo Men's Flyweight,1,S44
+E371,Taekwondo Men's Heavyweight,1,S44
+E372,Taekwondo Men's Welterweight,1,S44
+E373,Taekwondo Women's Featherweight,1,S44
+E374,Taekwondo Women's Flyweight,1,S44
+E375,Taekwondo Women's Heavyweight,1,S44
+E376,Taekwondo Women's Welterweight,1,S44
+E377,Tennis Men's Doubles,1,S45
+E378,Tennis Men's Singles,1,S45
+E379,Tennis Mixed Doubles,1,S45
+E380,Tennis Women's Doubles,1,S45
+E381,Tennis Women's Singles,1,S45
+E382,Trampolining Men's Individual,1,S46
+E383,Trampolining Women's Individual,1,S46
+E384,Triathlon Men's Olympic Distance,1,S47
+E385,Triathlon Women's Olympic Distance,1,S47
+E386,Volleyball Men's Volleyball,1,S48
+E387,Volleyball Women's Volleyball,1,S48
+E388,Water Polo Men's Water Polo,1,S49
+E389,Water Polo Women's Water Polo,1,S49
+E390,Weightlifting Men's Bantamweight,1,S50
+E391,Weightlifting Men's Featherweight,1,S50
+E392,Weightlifting Men's Heavyweight,1,S50
+E393,Weightlifting Men's Light-Heavyweight,1,S50
+E394,Weightlifting Men's Lightweight,1,S50
+E395,Weightlifting Men's Middle-Heavyweight,1,S50
+E396,Weightlifting Men's Middleweight,1,S50
+E397,Weightlifting Men's Super-Heavyweight,1,S50
+E398,Weightlifting Women's Featherweight,1,S50
+E399,Weightlifting Women's Flyweight,1,S50
+E400,Weightlifting Women's Heavyweight,1,S50
+E401,Weightlifting Women's Light-Heavyweight,1,S50
+E402,Weightlifting Women's Lightweight,1,S50
+E403,Weightlifting Women's Middleweight,1,S50
+E404,Weightlifting Women's Super-Heavyweight,1,S50
+E405,"Wrestling Men's Featherweight, Freestyle",1,S51
+E406,"Wrestling Men's Featherweight, Greco-Roman",1,S51
+E407,"Wrestling Men's Heavyweight, Freestyle",1,S51
+E408,"Wrestling Men's Heavyweight, Greco-Roman",1,S51
+E409,"Wrestling Men's Light-Heavyweight, Freestyle",1,S51
+E410,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,S51
+E411,"Wrestling Men's Lightweight, Freestyle",1,S51
+E412,"Wrestling Men's Lightweight, Greco-Roman",1,S51
+E413,"Wrestling Men's Middleweight, Freestyle",1,S51
+E414,"Wrestling Men's Middleweight, Greco-Roman",1,S51
+E415,"Wrestling Men's Super-Heavyweight, Freestyle",1,S51
+E416,"Wrestling Men's Super-Heavyweight, Greco-Roman",1,S51
+E417,"Wrestling Men's Welterweight, Freestyle",1,S51
+E418,"Wrestling Men's Welterweight, Greco-Roman",1,S51
+E419,"Wrestling Women's Featherweight, Freestyle",1,S51
+E420,"Wrestling Women's Flyweight, Freestyle",1,S51
+E421,"Wrestling Women's Heavyweight, Freestyle",1,S51
+E422,"Wrestling Women's Light-Heavyweight, Freestyle",1,S51
+E423,"Wrestling Women's Lightweight, Freestyle",1,S51
+E424,"Wrestling Women's Middleweight, Freestyle",1,S51
